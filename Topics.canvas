@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"f149bc117e153b0c","type":"file","file":"Done/Data-Driven Selective Context Sensitivity.md","x":-335,"y":-120,"width":330,"height":90,"color":"4"},
+		{"id":"a51857691b866207","type":"file","file":"Done/Context Tunneling.md","x":-40,"y":-277,"width":296,"height":74,"color":"4"},
+		{"id":"69d8e72d59860a3d","type":"file","file":"Done/Obj2CFA.md","x":371,"y":-460,"width":180,"height":50,"color":"4"},
+		{"id":"39ab73c502ab1572","type":"file","file":"Done/Graphick.md","x":-20,"y":70,"width":180,"height":70,"color":"4"},
+		{"id":"cc3a0b4b7dca838a","type":"file","file":"ToDo/Learning Minimal K in JavaScript Analysis.md","x":371,"y":-156,"width":301,"height":73,"color":"1"},
+		{"id":"7cdeccba3ab355fe","type":"file","file":"ToDo/Principled Tunneling Heuristics.md","x":371,"y":-30,"width":320,"height":86,"color":"1"},
+		{"id":"e0ae35c539e794fb","type":"file","file":"InProgress/Learning Minimal Tunneling Abstraction.md","x":371,"y":-325,"width":350,"height":96,"color":"3"},
+		{"id":"e98a40f3c4146343","type":"file","file":"figures/Graph Description Language.png","x":-130,"y":620,"width":400,"height":130},
+		{"id":"f174645dd3053ec0","type":"file","file":"InProgress/GDL + Decision Tree (PL4XGL).md","x":371,"y":500,"width":456,"height":95,"color":"3"},
+		{"id":"b75f98cd1ee4b8eb","type":"file","file":"InProgress/GDL + Neural Network.md","x":371,"y":647,"width":338,"height":77,"color":"3"},
+		{"id":"9515e29c5c64712e","type":"file","file":"InProgress/Crosswords + Fault Localization.md","x":-573,"y":640,"width":375,"height":90,"color":"3"},
+		{"id":"63ea9430ab8e95ad","type":"file","file":"InProgress/Rescue.md","x":-1480,"y":-30,"width":191,"height":57,"color":"3"},
+		{"id":"680ebf174effc912","type":"file","file":"ToDo/GDL-based GNN Explanation.md","x":-104,"y":960,"width":348,"height":89,"color":"1"},
+		{"id":"280f1b162b2f1cab","type":"file","file":"ToDo/GDL-based Data-Mining.md","x":-557,"y":960,"width":387,"height":71,"color":"1"},
+		{"id":"abc29cbc68710ff0","type":"file","file":"ToDo/GDL + GNN.md","x":355,"y":960,"width":244,"height":93,"color":"1"}
+	],
+	"edges":[
+		{"id":"b4a5aaafb8e610e0","fromNode":"a51857691b866207","fromSide":"right","toNode":"cc3a0b4b7dca838a","toSide":"left"},
+		{"id":"4030369ab0fd8305","fromNode":"a51857691b866207","fromSide":"right","toNode":"7cdeccba3ab355fe","toSide":"left"},
+		{"id":"f580e5bf511c0ed3","fromNode":"a51857691b866207","fromSide":"top","toNode":"69d8e72d59860a3d","toSide":"left"},
+		{"id":"48fd1ed6b6129be6","fromNode":"f149bc117e153b0c","fromSide":"top","toNode":"a51857691b866207","toSide":"left"},
+		{"id":"2a87777f5302e928","fromNode":"f149bc117e153b0c","fromSide":"bottom","toNode":"39ab73c502ab1572","toSide":"left"},
+		{"id":"469154bcb089701b","fromNode":"39ab73c502ab1572","fromSide":"bottom","toNode":"e98a40f3c4146343","toSide":"top"},
+		{"id":"feed228e017fe2cb","fromNode":"e98a40f3c4146343","fromSide":"left","toNode":"9515e29c5c64712e","toSide":"right"},
+		{"id":"583c02cba0fc71b3","fromNode":"a51857691b866207","fromSide":"right","toNode":"e0ae35c539e794fb","toSide":"left"},
+		{"id":"515d67d4acf85e05","fromNode":"e98a40f3c4146343","fromSide":"right","toNode":"f174645dd3053ec0","toSide":"left"},
+		{"id":"8e2931e99e01d2d9","fromNode":"e98a40f3c4146343","fromSide":"right","toNode":"b75f98cd1ee4b8eb","toSide":"left"},
+		{"id":"1fa7048cf13dc8f2","fromNode":"e98a40f3c4146343","fromSide":"bottom","toNode":"280f1b162b2f1cab","toSide":"top"},
+		{"id":"355df1020e7e9725","fromNode":"e98a40f3c4146343","fromSide":"bottom","toNode":"680ebf174effc912","toSide":"top"},
+		{"id":"124bf7d8dd78bff6","fromNode":"e98a40f3c4146343","fromSide":"bottom","toNode":"abc29cbc68710ff0","toSide":"top"}
+	]
+}

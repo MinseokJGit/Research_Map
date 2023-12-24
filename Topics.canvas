@@ -11,10 +11,10 @@
 		{"id":"f174645dd3053ec0","type":"file","file":"InProgress/GDL + Decision Tree (PL4XGL).md","x":371,"y":500,"width":456,"height":95,"color":"3"},
 		{"id":"b75f98cd1ee4b8eb","type":"file","file":"InProgress/GDL + Neural Network.md","x":371,"y":647,"width":338,"height":77,"color":"3"},
 		{"id":"9515e29c5c64712e","type":"file","file":"InProgress/Crosswords + Fault Localization.md","x":-573,"y":640,"width":375,"height":90,"color":"3"},
-		{"id":"63ea9430ab8e95ad","type":"file","file":"InProgress/Rescue.md","x":-1480,"y":-30,"width":191,"height":57,"color":"3"},
 		{"id":"680ebf174effc912","type":"file","file":"ToDo/GDL-based GNN Explanation.md","x":-104,"y":960,"width":348,"height":89,"color":"1"},
 		{"id":"280f1b162b2f1cab","type":"file","file":"ToDo/GDL-based Data-Mining.md","x":-557,"y":960,"width":387,"height":71,"color":"1"},
-		{"id":"abc29cbc68710ff0","type":"file","file":"ToDo/GDL + GNN.md","x":355,"y":960,"width":244,"height":93,"color":"1"}
+		{"id":"abc29cbc68710ff0","type":"file","file":"ToDo/GDL + GNN.md","x":355,"y":960,"width":244,"height":93,"color":"1"},
+		{"id":"63ea9430ab8e95ad","type":"file","file":"InProgress/Rescue.md","x":-920,"y":-30,"width":191,"height":57,"color":"3"}
 	],
 	"edges":[
 		{"id":"b4a5aaafb8e610e0","fromNode":"a51857691b866207","fromSide":"right","toNode":"cc3a0b4b7dca838a","toSide":"left"},

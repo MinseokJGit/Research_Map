@@ -2,7 +2,7 @@
 
 
 
-## In Progress
+#### In Progress
 
 ```dataview 
 TABLE 
@@ -15,8 +15,7 @@ SORT Deadline DESC
 
 
 
-
-## ToDo
+##### ToDo
 
 ```dataview 
 TABLE 
@@ -27,10 +26,7 @@ FROM "ToDo"
 
 
 
-
-
-
-## Done
+### Done
 
 ```dataview 
 TABLE 

@@ -14,3 +14,7 @@ TABLE deadline - date(today) AS D-Day FROM "InProgress/Crosswords + Fault Locali
 
 
 
+# Baseline FL techniques
+
+AENEAS
+others (mail 보내야 함)

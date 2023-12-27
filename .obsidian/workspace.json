@@ -41,14 +41,11 @@
             "id": "8ea46f6f0c775e3f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Reserach Map.canvas",
-                "viewState": {
-                  "x": 95.68127985074611,
-                  "y": 388.90591044776176,
-                  "zoom": -0.6346106055088998
-                }
+                "file": "Diary/2023-12-27.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reserach Map.canvas",
+                "file": "Diary/2023-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reserach Map.canvas",
+                "file": "Diary/2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reserach Map.canvas"
+                "file": "Diary/2023-12-27.md"
               }
             }
           },
@@ -192,12 +189,13 @@
   },
   "active": "706670f1853266c7",
   "lastOpenFiles": [
-    "README.md",
+    "Diary",
     "Reserach Map.canvas",
+    "README.md",
     "Tables.md",
     "Done/ARES.md",
     "Done/ARES 1.md",
-    "Today.md",
+    "Diary/2023-12-27.md",
     "Template.md",
     "InProgress/Crosswords + Fault Localization.md",
     "InProgress/GDL + Neural Network.md",

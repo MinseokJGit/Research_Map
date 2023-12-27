@@ -28,14 +28,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Done/ARES.md",
+                "file": "Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c105b60426b4a647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d04bdc32643cd0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Done/ARES.md",
+                "file": "Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Done/ARES.md",
+                "file": "Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Done/ARES.md"
+                "file": "Today.md"
               }
             }
           }
@@ -162,18 +186,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "706670f1853266c7",
+  "active": "d04bdc32643cd0dd",
   "lastOpenFiles": [
-    "Topics.canvas",
-    "Done/ARES.md",
+    "Template.md",
+    "Today.md",
     "Tables.md",
+    "Topics.canvas",
+    "ToDo/GDL-based Data-Mining.md",
+    "InProgress/Crosswords + Fault Localization.md",
     "README.md",
     "Conferences/ICSE 2025.md",
+    "Done/ARES.md",
     "Done/Graphick.md",
     "Done/Data-Driven Selective Context Sensitivity.md",
     "Done/Context Tunneling.md",
     "InProgress/GDL + Decision Tree (PL4XGL).md",
-    "InProgress/Rescue.md",
-    "InProgress/Crosswords + Fault Localization.md"
+    "InProgress/Rescue.md"
   ]
 }

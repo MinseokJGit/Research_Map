@@ -43,14 +43,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-12-27.md",
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1964fb38168d786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-12-27.md",
+                "file": "Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-12-27.md",
+                "file": "Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-12-27.md"
+                "file": "Today.md"
               }
             }
           },
@@ -187,16 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "706670f1853266c7",
+  "active": "e1964fb38168d786",
   "lastOpenFiles": [
-    "Diary",
+    "Template.md",
+    "Today.md",
+    "Diary/2023-12-27.md",
     "Reserach Map.canvas",
+    "Diary",
     "README.md",
     "Tables.md",
     "Done/ARES.md",
     "Done/ARES 1.md",
-    "Diary/2023-12-27.md",
-    "Template.md",
     "InProgress/Crosswords + Fault Localization.md",
     "InProgress/GDL + Neural Network.md",
     "ToDo/GDL-based Data-Mining.md",

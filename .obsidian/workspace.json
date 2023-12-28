@@ -8,42 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e48e9f303062df83",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Reserach Map.canvas",
-                "viewState": {
-                  "x": -114.2868175182481,
-                  "y": 691.9231021897806,
-                  "zoom": -1.0177052122849894
-                }
-              }
-            }
-          },
-          {
             "id": "1b523b906c85d84e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Reserach Map.canvas",
-                "viewState": {
-                  "x": 198.95319962686608,
-                  "y": 270.51083768656684,
-                  "zoom": -0.6346106055088998
-                }
-              }
-            }
-          },
-          {
-            "id": "8ea46f6f0c775e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template.md",
+                "file": "Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1964fb38168d786",
+  "active": "1b523b906c85d84e",
   "lastOpenFiles": [
-    "Template.md",
-    "Today.md",
-    "Diary/2023-12-27.md",
     "Reserach Map.canvas",
+    "Today.md",
+    "Template.md",
+    "Diary/2023-12-27.md",
     "Diary",
     "README.md",
     "Tables.md",

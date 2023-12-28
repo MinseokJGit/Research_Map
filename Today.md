@@ -7,21 +7,22 @@
 - [x] Todo list 작성 
 
 ### 출근중 (8:00 ~ 10:00)
-- [ ] 은행 방문
-- [ ] 독서 (미라클 모닝)
-- [ ] 르노삼성 전화해서 키 물어보기
+- [x] 은행 방문
+- [x] 르노삼성 전화해서 키 물어보기
+- [x] SIGPL 등록
+- [ ] 책
 
 ### 오전 업무시간 (10:00 ~ 11:15)
-- [ ] 물 한컵
-- [ ] Learning Maximal Abstraction Script 확인
-- [ ] PAFL Localization section revise
+- [x] 물 한컵
+- [x] Learning Maximal Abstraction Script 확인
+- [x] PAFL Localization section revise
 
 
 # 점심 (11:15 ~ 17:15)
-- [ ] 물 한컵
+- [x] 물 한컵
 
 ### 점심식사 및 직후 (11:15 ~ 13:00)
-- [ ] 식사
+- [x] 식사
 - [ ] 수면
 ### 오후 업무시간 1 (13:00 ~ 15:00)
 - [ ] PAFL Learning draft
@@ -40,6 +41,7 @@
 
 ### 퇴근중 (19:40~20:40)
 - [ ] 개인 시간
+
 ### 자기 계발 시간 (20:40~22:00)
 - [ ] 개인 시간
 

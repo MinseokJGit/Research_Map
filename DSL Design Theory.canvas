@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"1c73a4cae503853c","type":"text","text":"Problem:\nEffective Endurance Test Case Generation","x":51,"y":200,"width":209,"height":100,"color":"1"},
+		{"id":"a39dcb3d55c7e796","type":"text","text":"DSL Design Theory\n\nGoal: Design the following function\n\nDSLDesignTheory : Problem -> Language","x":-32,"y":-140,"width":375,"height":134,"color":"5"},
+		{"id":"c2a068abfd31b831","type":"text","text":"Language:\nAbstract Relative Write Pattern","x":21,"y":400,"width":270,"height":100,"color":"4"},
+		{"id":"cf45fdb5f1102dbe","type":"text","text":"Problem:\nGraph Pattern Description","x":428,"y":205,"width":209,"height":100,"color":"1"},
+		{"id":"59f43e354fa7ccdb","type":"text","text":"Language:\nGraph Description Language","x":428,"y":400,"width":209,"height":105,"color":"4"},
+		{"id":"9e27e6232253033b","type":"text","text":"Problem:\nMinor Revison Classification","x":820,"y":203,"width":209,"height":100,"color":"1"},
+		{"id":"9b17e8e69b6334c8","type":"text","text":"Language:\nRescue","x":820,"y":398,"width":209,"height":105,"color":"4"},
+		{"id":"1cea2d681960b42c","type":"text","text":"Problem:\n3N+1 Problem","x":-740,"y":205,"width":180,"height":100,"color":"1"},
+		{"id":"d0e8bbd582c2a505","type":"text","text":"Language:\nBinary","x":-738,"y":405,"width":178,"height":100,"color":"4"},
+		{"id":"59f940c271601972","type":"text","text":"Problem:\nData-Driven Static Analysis","x":-380,"y":200,"width":252,"height":100,"color":"1"},
+		{"id":"77b049e657dd5fe2","type":"text","text":"Language:\nDNF Formula","x":-380,"y":400,"width":252,"height":100,"color":"4"},
+		{"id":"5eb1754742f60961","type":"file","file":"Projects/Disjunctive Model Project.canvas","x":-447,"y":680,"width":386,"height":191},
+		{"id":"c6038642991f7537","type":"file","file":"Projects/GDL Project.canvas","x":343,"y":680,"width":380,"height":220},
+		{"id":"7e31bd63597f81c1","type":"file","file":"Done/ARES.md","x":87,"y":680,"width":136,"height":57,"color":"4"},
+		{"id":"9a649cdb28e56f3d","type":"file","file":"ToDo/16k+11.md","x":-731,"y":669,"width":171,"height":68},
+		{"id":"118105f2e05cb6ea","type":"file","file":"InProgress/Rescue.md","x":829,"y":680,"width":191,"height":57,"color":"3"}
+	],
+	"edges":[
+		{"id":"64fb5d2c10155d1a","fromNode":"a39dcb3d55c7e796","fromSide":"bottom","toNode":"59f940c271601972","toSide":"top","color":"1"},
+		{"id":"981f33d4ae274ab6","fromNode":"a39dcb3d55c7e796","fromSide":"bottom","toNode":"1cea2d681960b42c","toSide":"top","color":"1"},
+		{"id":"12c81bc84ac887e5","fromNode":"a39dcb3d55c7e796","fromSide":"bottom","toNode":"1c73a4cae503853c","toSide":"top","color":"1"},
+		{"id":"c43922b3f9247083","fromNode":"a39dcb3d55c7e796","fromSide":"bottom","toNode":"cf45fdb5f1102dbe","toSide":"top","color":"1"},
+		{"id":"be86202813da5efc","fromNode":"a39dcb3d55c7e796","fromSide":"bottom","toNode":"9e27e6232253033b","toSide":"top","color":"1"},
+		{"id":"c52e1ec701c4a8e0","fromNode":"59f940c271601972","fromSide":"bottom","toNode":"77b049e657dd5fe2","toSide":"top","color":"4"},
+		{"id":"7e08ce37a1a98af1","fromNode":"1cea2d681960b42c","fromSide":"bottom","toNode":"d0e8bbd582c2a505","toSide":"top","color":"4"},
+		{"id":"7fa118777e55f8c0","fromNode":"1c73a4cae503853c","fromSide":"bottom","toNode":"c2a068abfd31b831","toSide":"top","color":"4"},
+		{"id":"5591b600a2de8cdf","fromNode":"9e27e6232253033b","fromSide":"bottom","toNode":"9b17e8e69b6334c8","toSide":"top","color":"4"},
+		{"id":"1d8e3a750f76a93e","fromNode":"cf45fdb5f1102dbe","fromSide":"bottom","toNode":"59f43e354fa7ccdb","toSide":"top","color":"4"},
+		{"id":"0872cd0b0fd974f5","fromNode":"59f43e354fa7ccdb","fromSide":"bottom","toNode":"c6038642991f7537","toSide":"top","color":"2","label":"Project"},
+		{"id":"25d0839c1a36b79b","fromNode":"77b049e657dd5fe2","fromSide":"bottom","toNode":"5eb1754742f60961","toSide":"top","color":"2","label":"Project"},
+		{"id":"2ca239048ed0c8b7","fromNode":"c2a068abfd31b831","fromSide":"bottom","toNode":"7e31bd63597f81c1","toSide":"top"},
+		{"id":"0321ff2f6d30a3f9","fromNode":"d0e8bbd582c2a505","fromSide":"bottom","toNode":"9a649cdb28e56f3d","toSide":"top"},
+		{"id":"1fe8fd708f8861a5","fromNode":"9b17e8e69b6334c8","fromSide":"bottom","toNode":"118105f2e05cb6ea","toSide":"top"}
+	]
+}

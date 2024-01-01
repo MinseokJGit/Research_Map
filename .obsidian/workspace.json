@@ -13,14 +13,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today.md",
+                "file": "Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+            "id": "bc66b8c1a539c579",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DSL Design Theory.canvas",
+                "viewState": {
+                  "x": 144.5,
+                  "y": 380,
+                  "zoom": -0.7022201822422884
+                }
+              }
+            }
+          },
+          {
             "id": "e1964fb38168d786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023-12-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a4cbd74b9cf6d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bf2b8d1ca667a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,26 +208,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b523b906c85d84e",
+  "active": "9bf2b8d1ca667a93",
   "lastOpenFiles": [
     "Template.md",
     "Today.md",
-    "Diary/2023-12-28.md",
+    "Diary/2023-1-1.md",
+    "Tables.md",
+    "DSL Design Theory.canvas",
+    "Diary/2023-12-30.md",
+    "Projects/GDL Project.canvas",
+    "Projects/Disjunctive Model Project.canvas",
+    "README.md",
+    "InProgress/GDL + Neural Network.md",
+    "InProgress/Rescue.md",
+    "ToDo/16k+11.md",
+    "Done/ARES.md",
+    "Diary/2023-12-29.md",
+    "Done/Data-Driven Selective Context Sensitivity.md",
     "Reserach Map.canvas",
+    "Projects",
+    "figures/ddpa.png",
+    "figures/PL4XGL.png",
+    "figures/Graph Description Language.png",
+    "figures/GDLNN_Explanation_ALgorithm.png",
+    "figures/GDLNN_Explanation.png",
+    "figures/GDLNN.png",
+    "Done/Graphick.md",
+    "Untitled 1.md",
+    "Diary/2023-12-28.md",
     "Diary/2023-12-27.md",
     "Diary",
-    "README.md",
-    "Tables.md",
-    "Done/ARES.md",
     "Done/ARES 1.md",
     "InProgress/Crosswords + Fault Localization.md",
-    "InProgress/GDL + Neural Network.md",
     "ToDo/GDL-based Data-Mining.md",
     "Conferences/ICSE 2025.md",
-    "Done/Graphick.md",
-    "Done/Data-Driven Selective Context Sensitivity.md",
     "Done/Context Tunneling.md",
-    "InProgress/GDL + Decision Tree (PL4XGL).md",
-    "InProgress/Rescue.md"
+    "InProgress/GDL + Decision Tree (PL4XGL).md"
   ]
 }

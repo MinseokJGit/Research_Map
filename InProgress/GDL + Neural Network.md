@@ -8,15 +8,16 @@ Main Author:
 Deadline:
 ---
 
-Theme : GDL 기반 그래프 기계학습 방법의 Neural network 버전
+# Problem
 
 
-# Previous (PL4XGL) : GDL + **Decision Tree**
+# Language
 
-![[PL4XGL.png]]
 
-장점: inherently **interpretable** and explainable
-단점: Accuracy?
+
+
+# Theme : GDL 기반 그래프 기계학습 방법의 Neural network 버전
+
 
 
 # GDLNN : GDL + Neural Network

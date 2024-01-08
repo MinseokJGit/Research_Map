@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "b80048c3bffe94e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4e5794564a767f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e1964fb38168d786",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Today.md",
+                "file": "Diary/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Today.md",
+                "file": "Diary/Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Today.md"
+                "file": "Diary/Review.md"
               }
             }
           },
@@ -168,8 +193,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b523b906c85d84e",
+  "active": "b80048c3bffe94e5",
   "lastOpenFiles": [
+    "Today.md",
+    "Template.md",
+    "Tables.md",
+    "README.md",
+    "세종과학 펠로우쉽.md",
+    "DSL Design Theory.canvas",
+    "Pasted image 20240105134346.png",
+    "Pasted image 20240105134526.png",
+    "Pasted image 20240105135943.png",
+    "Pasted image 20240105135607.png",
+    "Pasted image 20240105134555.png",
+    "Diary/Review.md",
     "figures/ddpa.png",
     "ToDo/16k+11.md",
     "Projects/GDL Project.canvas",
@@ -178,15 +215,10 @@
     "Diary/2023-12-30.md",
     "Diary/2023-12-29.md",
     "Diary/2023-1-1.md",
-    "DSL Design Theory.canvas",
-    "Template.md",
-    "Today.md",
     "Diary/2023-12-28.md",
     "Reserach Map.canvas",
     "Diary/2023-12-27.md",
     "Diary",
-    "README.md",
-    "Tables.md",
     "Done/ARES.md",
     "Done/ARES 1.md",
     "InProgress/Crosswords + Fault Localization.md",

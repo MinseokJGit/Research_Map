@@ -13,38 +13,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today.md",
+                "file": "Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b80048c3bffe94e5",
+            "id": "bc66b8c1a539c579",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Diary/Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4e5794564a767f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today.md",
-                "mode": "source",
-                "source": false
+                "file": "DSL Design Theory.canvas",
+                "viewState": {
+                  "x": 144.5,
+                  "y": 380,
+                  "zoom": -0.7022201822422884
+                }
               }
             }
           },
           {
             "id": "e1964fb38168d786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023-12-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a4cbd74b9cf6d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bf2b8d1ca667a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Review.md",
+                "file": "Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Review.md",
+                "file": "Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Review.md"
+                "file": "Today.md"
               }
             }
           },
@@ -193,42 +208,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b80048c3bffe94e5",
+  "active": "9bf2b8d1ca667a93",
   "lastOpenFiles": [
-    "Today.md",
     "Template.md",
-    "Tables.md",
-    "README.md",
-    "세종과학 펠로우쉽.md",
-    "DSL Design Theory.canvas",
-    "Pasted image 20240105134346.png",
-    "Pasted image 20240105134526.png",
-    "Pasted image 20240105135943.png",
-    "Pasted image 20240105135607.png",
-    "Pasted image 20240105134555.png",
+    "Today.md",
     "Diary/Review.md",
-    "figures/ddpa.png",
-    "ToDo/16k+11.md",
+    "InProgress/Crosswords + Fault Localization.md",
+    "세종과학 펠로우쉽.md",
     "Projects/GDL Project.canvas",
+    "DSL Design Theory.canvas",
+    "ToDo/Learning Minimal K in JavaScript Analysis.md",
     "Projects/Disjunctive Model Project.canvas",
-    "Projects",
-    "Diary/2023-12-30.md",
-    "Diary/2023-12-29.md",
+    "InProgress/Learning Minimal Tunneling Abstraction.md",
     "Diary/2023-1-1.md",
-    "Diary/2023-12-28.md",
+    "Tables.md",
+    "Diary/2023-12-30.md",
+    "README.md",
+    "InProgress/GDL + Neural Network.md",
+    "InProgress/Rescue.md",
+    "ToDo/16k+11.md",
+    "Done/ARES.md",
+    "Diary/2023-12-29.md",
+    "Done/Data-Driven Selective Context Sensitivity.md",
     "Reserach Map.canvas",
+    "Projects",
+    "figures/ddpa.png",
+    "figures/PL4XGL.png",
+    "figures/Graph Description Language.png",
+    "figures/GDLNN_Explanation_ALgorithm.png",
+    "figures/GDLNN_Explanation.png",
+    "figures/GDLNN.png",
+    "Done/Graphick.md",
+    "Untitled 1.md",
+    "Diary/2023-12-28.md",
     "Diary/2023-12-27.md",
     "Diary",
-    "Done/ARES.md",
     "Done/ARES 1.md",
-    "InProgress/Crosswords + Fault Localization.md",
-    "InProgress/GDL + Neural Network.md",
     "ToDo/GDL-based Data-Mining.md",
     "Conferences/ICSE 2025.md",
-    "Done/Graphick.md",
-    "Done/Data-Driven Selective Context Sensitivity.md",
     "Done/Context Tunneling.md",
-    "InProgress/GDL + Decision Tree (PL4XGL).md",
-    "InProgress/Rescue.md"
+    "InProgress/GDL + Decision Tree (PL4XGL).md"
   ]
 }

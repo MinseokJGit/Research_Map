@@ -64,6 +64,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Diary/Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31657e4db279cac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Today.md",
                 "mode": "source",
                 "source": false
@@ -71,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,13 +220,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bf2b8d1ca667a93",
+  "active": "31657e4db279cac4",
   "lastOpenFiles": [
-    "Template.md",
-    "Today.md",
+    "ISSTA paper review.md",
     "Diary/Review.md",
-    "InProgress/Crosswords + Fault Localization.md",
+    "Today.md",
+    "Template.md",
     "세종과학 펠로우쉽.md",
+    "Pasted image 20240109082919.png",
+    "Pasted image 20240109082530.png",
+    "InProgress/Crosswords + Fault Localization.md",
     "Projects/GDL Project.canvas",
     "DSL Design Theory.canvas",
     "ToDo/Learning Minimal K in JavaScript Analysis.md",
@@ -246,7 +261,6 @@
     "Done/ARES 1.md",
     "ToDo/GDL-based Data-Mining.md",
     "Conferences/ICSE 2025.md",
-    "Done/Context Tunneling.md",
-    "InProgress/GDL + Decision Tree (PL4XGL).md"
+    "Done/Context Tunneling.md"
   ]
 }

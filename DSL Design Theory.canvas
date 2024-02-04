@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"1c73a4cae503853c","type":"text","text":"Problem:\nEffective Endurance Test Case Generation","x":51,"y":200,"width":209,"height":100,"color":"1"},
-		{"id":"a39dcb3d55c7e796","type":"text","text":"DSL Design Theory\n\nGoal: Design the following function\n\nDSLDesignTheory : Problem -> Language","x":-32,"y":-140,"width":375,"height":134,"color":"5"},
+		{"id":"a39dcb3d55c7e796","type":"text","text":"DSL Design Theory\n\nGoal: Design the following function\n\nDSLDesignTheory : Problem -> Language","x":-32,"y":-200,"width":412,"height":194,"color":"5"},
 		{"id":"c2a068abfd31b831","type":"text","text":"Language:\nAbstract Relative Write Pattern","x":21,"y":400,"width":270,"height":100,"color":"4"},
 		{"id":"cf45fdb5f1102dbe","type":"text","text":"Problem:\nGraph Pattern Description","x":428,"y":205,"width":209,"height":100,"color":"1"},
 		{"id":"59f43e354fa7ccdb","type":"text","text":"Language:\nGraph Description Language","x":428,"y":400,"width":209,"height":105,"color":"4"},

@@ -13,7 +13,7 @@ In particular, we will revise Section 7 ("Limitations and Future Work") to inclu
 
 - Two fundamental limitations: (1) current GDL is very simple, which precludes many use-cases, and (2) PL4XGL cannot support regression (Reviewer B).
 
-- PL4XGL may not be the best choice for applications where reliable explanations are not essential (Reviewer C).
+- PL4XGL may not be the best choice for applications where the reliability of explanations is not a critical concern (Reviewer C).
 
 - Currently, only a small fraction of the learned GDL programs are actually used for the classification task; applying model minimization techniques can address this problem (Reviewer C).
 
@@ -85,17 +85,17 @@ Using a deeper `chosen_depth` may enable our algorithm to synthesize better GDL 
 
   
 
-[A] Classification cost of a model with complex features (e.g., GDL programs consist of a large number of variables) is more expensive than that of a model with simple features (e.g., GDL program with small number of variables). This is because evaluating a complex feature is more expensive than evaluating a simple feature. However, complex features are necessary in some datasets as they are crucial for achieving high accuracy.
+[A] The classification cost of a model with complex features (e.g., GDL programs consisting of large numbers of variables) is typically more expensive than that of a model with simple features (e.g., GDL programs with small numbers of variables). This is because evaluating a complex feature is more expensive than evaluating a simple feature. However, complex features are necessary in some datasets as they are crucial for achieving high accuracy.
 
   
 
-For example, the complex GDL program at line 150 (Figure 1) of our supplementary material, consisting of 17 variables (nine node variables and eight edge variables), plays an important role in the classification task. PL4XGL used the complex GDL program for classifying 45% of the test graphs in MUTAG dataset where all the test graphs are accurately classified.
+For example, the complex GDL program at line 150 (Figure 1) of our supplementary material, consisting of 17 variables (nine node variables and eight edge variables), plays an important role in the classification task. PL4XGL used the complex GDL program for classifying 45% of the test graphs in the MUTAG dataset where all the test graphs are accurately classified.
 
   
   
   
 
-#### [Q] The paper omits datasets that SubgraphX cannot scale up to. But I think it is nice to present the results for large datasets so that the community better understand the scope, scale and types of problems that PL4XGL can handle.
+#### [Q] The paper omits datasets that SubgraphX cannot scale up to. But I think it is nice to present the results for large datasets so that the community better understands the scope, scale, and types of problems that PL4XGL can handle.
 
   
 
@@ -109,7 +109,7 @@ For example, the complex GDL program at line 150 (Figure 1) of our supplementary
 
   
 
-[A] We will try to include other GNN explanation techniques in the revised paper.
+[A] We will include other GNN explanation techniques in the revised paper.
 
   
 
@@ -153,7 +153,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
 
   
 
-[A] To address this concern, we will revise Figure 9 to separately show the three types of cost separately.
+[A] To address this concern, we will revise Figure 9 to show the three types of cost separately.
 
   
   
@@ -162,7 +162,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
 
   
 
-[A] In the revised paper, we will include intuitive explanations for help understanding the motivation behind Fidelity. The insight of the metric Fidelity, which is a proxy metric of correctness, is that if a provided explanation subgraph is the actual reason of the original prediction, the model should classify the subgraph into the same label.
+[A] In the revised paper, we will include intuitive explanations to help understand the motivation behind Fidelity. The insight of the metric Fidelity, which is a proxy metric of correctness, is that if a provided explanation subgraph is the actual reason for the original prediction, the model should classify the subgraph into the same label.
 
   
   
@@ -181,7 +181,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
 
   
 
-[A] The model does not learn size of the training data. However, improving PL4XGL to learn size of the training data is an interesting future work. We will try to discuss this in the revised paper.
+[A] The model does not learn size of the training data.
 
   
   
@@ -190,7 +190,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
 
   
 
-[A] The inference cost is small. For example, inference cost (classification cost) of PL4XGL is less than 10 minutes.
+[A] The inference cost is small. For example, the inference cost (classification cost) of PL4XGL is less than 10 minutes for each dataset.
 
   
   
@@ -199,7 +199,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
 
   
 
-[A] Yes. In MUTAG dataset, for example, PL4XGL used only 5% of the learned GDL programs for classifying the test set.
+[A] Yes. In MUTAG dataset, for example, PL4XGL used only 5% of the learned GDL programs for classifying the test set. We will clarify it in the revised paper.
 
   
   
@@ -209,7 +209,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
   
   
 
-[A] Yes. PL4XGL can be minimized in the same way. Then, the inference time (i.e., classification cost) of PL4XGL will be significantly optimized. We will discuss this in the revised paper.
+[A] Yes. PL4XGL can be minimized in the same way. Then, the inference time (i.e., classification cost) of PL4XGL will be optimized. We will discuss this in the revised paper.
 
   
   
@@ -219,7 +219,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
   
   
 
-[A] We have observed the issue pointed out by the reviewer. In the revised paper, we will discuss this problem with the observed data, and discuss a future work. Designing a better score function, considering class imbalance, can be an interesting future work.
+[A] We have observed the issue pointed out by the reviewer. In the revised paper, we will discuss this problem with the observed data and discuss a future work. Designing a better score function, considering class imbalance, can be an interesting future work.
 
   
   
@@ -229,7 +229,7 @@ The paper has two fundamental limitations: (1) The constraint language on node a
 
   
 
-[A] For preventing the confusion, we will clarify the meaning of the terms top-down and bottom-up in the revised paper.
+[A] To prevent the confusion, we will clarify the meaning of the terms top-down and bottom-up in the revised paper.
 
   
   
@@ -251,9 +251,7 @@ We evaluate the program on all training data.
 
   
 
-[A] We will discuss the expressiveness in the revised paper. In terms of expressiveness, GDL is strictly more expressive than subgraphs as a subgraph can be represented by a GDL program, but not vice versa.
-
-For example, a subgraph that have two nodes and an edge that connect the two nodes where the nodes and edges have feature $\langle 1.0 \rangle$ (i.e., $G = (V, E, F_V, F_E)$ where $V = \{v_1,v_2\}$, $E = \{(v1,v2)\}, F_V=\langle \langle 1.0 \rangle, \langle 1.0 \rangle\rangle, F_E=\langle \langle 1.0 \rangle\rangle$)
+[A] We will discuss the expressiveness in the revised paper. In terms of expressiveness, GDL is strictly more expressive than subgraphs as a subgraph can be represented by a GDL program, but not vice versa. For example, a subgraph that have two nodes and an edge that connect the two nodes where the nodes and edges have feature $\langle 1.0 \rangle$ (i.e., $G = (V, E, F_V, F_E)$ where $V = \{v_1,v_2\}$, $E = \{(v1,v2)\}, F_V=\langle \langle 1.0 \rangle, \langle 1.0 \rangle\rangle, F_E=\langle \langle 1.0 \rangle\rangle$)
 
 The corresponding GDL program would be:
 
@@ -330,7 +328,7 @@ Due to the space limit, we used the graphical representations rather than the GD
 
   
 
-[A] We will discuss properties of our synthesis algorithms in the revised paper. For example, we will clarify our algorithm may not find optimal GDL programs.
+[A] We will discuss the properties of our synthesis algorithms in the revised paper. For example, we will clarify our algorithm may not find optimal GDL programs.
 
   
   

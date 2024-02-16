@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"b91e8ebc49d0e7e8","type":"text","text":"","x":167,"y":519,"width":250,"height":60},
 		{"id":"319bb213faf9d0ad","type":"file","file":"figures/Graph Description Language.png","x":-410,"y":-111,"width":638,"height":207},
 		{"id":"b853233b646dd1e7","type":"file","file":"InProgress/GDL + Neural Network.md","x":362,"y":54,"width":338,"height":77,"color":"3"},
 		{"id":"fef7afdaabe6239f","type":"file","file":"InProgress/GDL + Decision Tree (PL4XGL).md","x":350,"y":-158,"width":456,"height":95,"color":"3"},

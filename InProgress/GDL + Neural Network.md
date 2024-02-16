@@ -8,6 +8,7 @@ Main Author:
 Deadline:
 ---
 
+
 # Problem
 
 
@@ -55,5 +56,8 @@ ToDo:
 
 1. Node classification
 
+내가 해야 되는게?
 
-Feature가 
+뭐가 다른지 그림으로 만들어서 교수님께 이야기하기 (Due : 3/22)
+
+

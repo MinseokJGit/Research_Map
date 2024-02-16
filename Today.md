@@ -1,11 +1,19 @@
 2024-2-13
 
 #### 급한일 리스트 (이번달 해야할 일)
+- [ ] OOPSLA Conditional Accept (Due : 2024. 02. 24)
+
 - [ ] 삼성 종기원 (논문, 기술 문서) Due 3/15
 - [ ] 종기원 발표 (Due : 3/4)
 - [ ] ICSE Due: 3/22
 - [ ] Korea University Due : 2/29
 - [ ] 1학년 수업 준비
+- [ ] PLDI Artifact Due : Registration (3/4), Deadline (3/11) 
+- [ ] PLDI Revision Due : **??**
+
+- [ ] 1학년 수업 슬라이드 + 프린트물 만들기
+
+
 
 # 아침 (6:30 ~ 11:15)
 
@@ -15,11 +23,11 @@
 - [x] Todo list 작성 
 
 ### 출근중 (8:00 ~ 9:00)
-- [ ] Pod cast (지하철 안)
-- [ ] GPT 대화 (지하철 밖)
+- [x] Pod cast (지하철 안)
+- [x] GPT 대화 (지하철 밖)
 
 ### 오전 업무시간 (9:00 ~ 11:00)
-- [ ] PLDI'2024 Revision
+- [x] PLDI'2024 Revision
 - [ ] 미팅 메일 작성하기
 
 # 점심 (11:15 ~ 17:15)

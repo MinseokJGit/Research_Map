@@ -18,5 +18,15 @@ TABLE deadline - date(today) AS D-Day FROM "InProgress/Crosswords + Fault Locali
 
 # Baseline FL techniques
 
-AENEAS
-others (mail 보내야 함)
+
+
+# DNN-FL
+
+Our DNN-based model is trained utilizing the coverage data and the results of test cases as input and we further locate the faults by testing the trained model using the virtual test suite.
+
+
+Input : 
+Coverage data & the result of test cases
+
+We further locate the faults by testing the trained model using the virtual test suite.
+

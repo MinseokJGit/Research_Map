@@ -50,4 +50,26 @@
 - [ ] To address this concern, we will revise Figure 9 to show the three types of cost separately.
  
 
+<div style="page-break-after: always;"></div>
 
+
+
+
+**Mandatory revisions**
+
+1. Incorporate rebuttal content into the paper:
+
+- [ ]  limitation & future work section (expressiveness, scalability, classification only)
+- [ ]  experiment section: revise figure 9 for better cost presentation; explain fidelity better; add qualitative analysis
+- [x]  elaborate search depth in the technical section
+- [ ]  compare with subgraph based approach (in related work)
+
+2. Revise intro/overview for better framing:
+
+- [ ]   better define scope and expressiveness, clarify "correctness of explanations"
+
+**Optional revisions**
+
+- [ ]  Evaluate on large dataset from SubgraphX
+- [ ]  Evaluate with different search depth to show tradeoff between performance and time
+- [ ]  Incorporate the example in rebuttal comparing GDL and subgraphs in the paper, this example will also help general audience to understand the difference better

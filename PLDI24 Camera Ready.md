@@ -24,10 +24,10 @@ The PC has decided to conditionally accept your paper; congratulations!
 
 1. Incorporate rebuttal content into the paper:
 
-- [ ]  limitation & future work section (expressiveness, scalability, classification only)
-- [ ]  experiment section: revise figure 9 for better cost presentation; explain fidelity better; add qualitative analysis
+- [x]  limitation & future work section (expressiveness, scalability, classification only)
+- [x]  experiment section: revise figure 9 for better cost presentation; explain fidelity better; add qualitative analysis
 - [x]  elaborate search depth in the technical section
-- [ ]  compare with subgraph based approach (in related work)
+- [x]  compare with subgraph based approach (in related work)
 
 1. Revise intro/overview for better framing:
 

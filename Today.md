@@ -5,7 +5,7 @@
 - [ ] ICSE Abstract: 3/15
 - [ ] ICSE Due: 3/22
 
-- [ ] PLDI Revision Due : 4/5
+- [ ] PLDI Revision Due : 3/24
 
 
 # 아침 (6:30 ~ 11:15)

@@ -7,7 +7,8 @@
 		{"id":"0f4e3fc01df092c5","type":"file","file":"InProgress/Crosswords + Fault Localization.md","x":-895,"y":28,"width":375,"height":90,"color":"3"},
 		{"id":"c4f652383d849241","type":"file","file":"ToDo/GDL-based Data-Mining.md","x":-840,"y":302,"width":387,"height":71,"color":"1"},
 		{"id":"65a730f71b2efee1","type":"file","file":"ToDo/GDL-based GNN Explanation.md","x":-410,"y":293,"width":348,"height":89,"color":"1"},
-		{"id":"40b2a347699ee1e0","type":"file","file":"ToDo/GDL + GNN.md","x":-16,"y":293,"width":244,"height":93,"color":"1"}
+		{"id":"40b2a347699ee1e0","type":"file","file":"ToDo/GDL + GNN.md","x":-16,"y":293,"width":244,"height":93,"color":"1"},
+		{"id":"16caa17d677594f9","type":"file","file":"InProgress/Transductive PL4XGL.md","x":280,"y":288,"width":399,"height":85,"color":"3"}
 	],
 	"edges":[
 		{"id":"b342a31a56cb8d61","fromNode":"319bb213faf9d0ad","fromSide":"right","toNode":"fef7afdaabe6239f","toSide":"left"},
@@ -16,6 +17,7 @@
 		{"id":"d79f5316a187500b","fromNode":"319bb213faf9d0ad","fromSide":"bottom","toNode":"65a730f71b2efee1","toSide":"top"},
 		{"id":"d2f910a506b37c16","fromNode":"319bb213faf9d0ad","fromSide":"bottom","toNode":"40b2a347699ee1e0","toSide":"top"},
 		{"id":"5f66bb37fbe42036","fromNode":"319bb213faf9d0ad","fromSide":"left","toNode":"0f4e3fc01df092c5","toSide":"right"},
-		{"id":"2d325bc6a4a33c0b","fromNode":"319bb213faf9d0ad","fromSide":"left","toNode":"6e5381f34570763e","toSide":"right"}
+		{"id":"2d325bc6a4a33c0b","fromNode":"319bb213faf9d0ad","fromSide":"left","toNode":"6e5381f34570763e","toSide":"right"},
+		{"id":"77d076082d53f25f","fromNode":"319bb213faf9d0ad","fromSide":"bottom","toNode":"16caa17d677594f9","toSide":"top"}
 	]
 }

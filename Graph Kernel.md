@@ -63,3 +63,4 @@ However, the concept (but not all speed-up tricks) can be extended to labeled gr
 
 Mapping (sub)graphs to their isomorphism type is known as graph canonization problem, for which no polynomial time algorithm is known [17]. However, this is not a severe restriction for small graphs such as graphlets and, in addition, well-engineered algorithms solving most practical instances in a short time exist [81]. Horváth et al. [27] proposed a kernel which decomposes graphs into cycles and tree patterns, for which the canonization problem can be solved in polynomial time and simple practical algorithms for this are known.
 
+

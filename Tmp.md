@@ -1,7 +1,3 @@
 
-
-I consider myself on the borderline between knowledgeable and expert. 
-However, I rated myself as knowledgeable because I do not feel I am an expert in flow-sensitivity. 
-For example, my uncertainty about the design quality of the proposed flow-sensitivity technique (e.g., whether the design is an innovative design or not). 
-I assessed it based on the experimental results.
+I've got an email asking whether I can put down an X review, but I am not an expert in the area covered by the paper. 
 

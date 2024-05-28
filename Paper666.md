@@ -130,3 +130,27 @@ _PrivateCallAndContinuation_ and _PrivateReturn_ are only _likely_ true to their
 The analysis cannot know for sure when a control-flow transition corresponds to a high-level function call.
 
 The naming reflects the intuition: we want shrinking context sensitivity to attempt to match function calls and returns, and hopefully acheve both precision and scalability even with this incomplete information.
+
+
+
+## Control Flow Normalization Via Cloning
+
+A second technique that enables precision in Shrnkr is the aggressive cloning of blocks that are locally determined to be used in inconsistent ways. 
+
+### Cloning Need: Illustration
+
+Solidity compiler will often try to reuse the same low-level blocks for different high-level purposes. 
+
+The code snippet in Figure 3 exhibits such behavior with block 0x72 being used to perform two of the three implicit checked subtraction operations in line 10 in Figure 1.
+
+
+
+![[Pasted image 20240528162239.png]]
+
+
+![[Pasted image 20240528162301.png]]
+
+For this example, the state-of-the-art Elipmoc decompiler will correctly identify that this block is used to perform two different function calls, attempting to summarize them as shown in the three-address-code snippet in Figure 6a.
+
+The Elipmoc output cannot be expressed using standard linear IR control-flow constructs over the basic blocks shown. The identities of the arguments of the two function calls are not recoverable. 
+

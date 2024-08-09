@@ -3,8 +3,7 @@ Problem: Graph Machine Learning
 Impact: Impactful
 State: In Progress
 Target Conference: 
-Main Author:
-  - Seunghyun
+Main Author: []
 Deadline:
 ---
 

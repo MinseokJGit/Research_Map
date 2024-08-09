@@ -3,8 +3,7 @@ Problem: ImprovingGDL for Transductive Learning
 Impact: normal
 State: In Progress
 Target Conference: 
-Main Author:
-  - Jisoo
+Main Author: []
 Deadline:
 ---
 

@@ -15,4 +15,4 @@ I checked the revised paper. The authors addressed all my comments.
 
 ## MEA2: a Lightweight Field-Sensitive Escape Analysis with Points-to Calculation for Golang
 
-- [ ] I checked the revised paper showing the diff. I am satisfied with the revised paper.
+- [ ] I checked the revised paper showing the diff. I am satisfied with the revision.

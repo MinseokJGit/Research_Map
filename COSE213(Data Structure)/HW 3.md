@@ -1,5 +1,5 @@
 
-## 1. Binary Search Tree의 Insertion, Retrieval, Deletion, Destroy 구현
+## 1. AVL Tree의 Insertion, Retrieval, Deletion, Destroy 구현
 
 ## 
 

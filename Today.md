@@ -1,9 +1,9 @@
 
 #### 오늘 할 일 
 
-- [ ] OOPSLA Review check
-- [ ] AVL Tree check
-
+- [ ] IPad para
+- [x] research Script
+- [ ] Print final tests
 
 
 

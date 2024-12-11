@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"614682eb39658b4a","type":"file","file":"Area/figures/ddpa.png","x":-440,"y":-590,"width":512,"height":320},
+		{"id":"4e2ee25a4ca937b9","type":"file","file":"Area/Done/Graphick.md","x":-823,"y":-350,"width":180,"height":70,"color":"4"},
+		{"id":"bf2cf5d021781e43","type":"file","file":"Area/Done/Data-Driven Selective Context Sensitivity.md","x":-973,"y":-592,"width":330,"height":90,"color":"4"},
+		{"id":"7689809d95a7bc23","type":"file","file":"Area/Done/Obj2CFA.md","x":258,"y":-295,"width":180,"height":50,"color":"4"},
+		{"id":"aa1bc13fd1d950ed","type":"file","file":"Area/Done/Context Tunneling.md","x":200,"y":-592,"width":296,"height":74,"color":"4"},
+		{"id":"d9e700923a572057","type":"file","file":"Area/ToDo/Learning Minimal K in JavaScript Analysis.md","x":683,"y":-445,"width":301,"height":73,"color":"1"},
+		{"id":"17ad2edd9d94d39b","type":"file","file":"Area/ToDo/Principled Tunneling Heuristics.md","x":683,"y":-297,"width":320,"height":86,"color":"1"},
+		{"id":"73c01a8fad380b78","type":"file","file":"Area/InProgress/Learning Minimal Tunneling Abstraction.md","x":683,"y":-688,"width":350,"height":96,"color":"3"}
+	],
+	"edges":[
+		{"id":"87dd445868dcfead","fromNode":"aa1bc13fd1d950ed","fromSide":"right","toNode":"d9e700923a572057","toSide":"left"},
+		{"id":"53362cd786148753","fromNode":"aa1bc13fd1d950ed","fromSide":"right","toNode":"17ad2edd9d94d39b","toSide":"left"},
+		{"id":"41e8cf12a716ba20","fromNode":"aa1bc13fd1d950ed","fromSide":"right","toNode":"73c01a8fad380b78","toSide":"left"},
+		{"id":"cbc248c7d7ec27fe","fromNode":"614682eb39658b4a","fromSide":"left","toNode":"bf2cf5d021781e43","toSide":"right"},
+		{"id":"6aab334bbcd9e813","fromNode":"614682eb39658b4a","fromSide":"left","toNode":"4e2ee25a4ca937b9","toSide":"right"},
+		{"id":"8e6c0586e64afdbe","fromNode":"614682eb39658b4a","fromSide":"right","toNode":"aa1bc13fd1d950ed","toSide":"left"},
+		{"id":"ae9d5462642736b4","fromNode":"614682eb39658b4a","fromSide":"right","toNode":"7689809d95a7bc23","toSide":"left"},
+		{"id":"b97002089fd59060","fromNode":"aa1bc13fd1d950ed","fromSide":"bottom","toNode":"7689809d95a7bc23","toSide":"top"}
+	]
+}

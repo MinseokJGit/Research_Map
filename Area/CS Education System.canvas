@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"42c23709f19b3fa4","type":"text","text":"Scoring","x":120,"y":-80,"width":120,"height":50},
+		{"id":"3b4b463393ecd750","type":"text","text":"CS education System","x":-220,"y":-200,"width":210,"height":60},
+		{"id":"0d404573ce57fa02","x":100,"y":-320,"width":340,"height":70,"type":"file","file":"Area/Automatic Language & Specification Generator.md"}
+	],
+	"edges":[
+		{"id":"f817330f190f5e8e","fromNode":"3b4b463393ecd750","fromSide":"right","toNode":"42c23709f19b3fa4","toSide":"left"},
+		{"id":"4ee7c7db97c2828c","fromNode":"3b4b463393ecd750","fromSide":"right","toNode":"0d404573ce57fa02","toSide":"left"}
+	]
+}

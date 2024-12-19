@@ -2,7 +2,7 @@
 Problem: Fault Localization
 Impact: Impactful
 State: Done
-Target Conference: ICSE
+Target Conference: OOPSLA
 Main Author:
   - Donguk
 Deadline: 2024-08-03
